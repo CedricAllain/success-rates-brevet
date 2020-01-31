@@ -1,6 +1,6 @@
 # Prediction of the success rate at the "Brevet des collèges"
 
-Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicted the average success rate at the brevet des colleges for each french public college and to identify factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities. 
+Every year in France, more than 800 000 students aged around 15 take a compulsory national exam, the "Brevet des collèges" which marks the end of four years of studies. The national average is 86.5% of success.  This project aims at predicting the average success rate at the brevet des colleges for each french public college and  identifying factors of the success of the best colleges and the degrees of flexibility of the government to reduce inequalities. 
 
 ## Set up
 
