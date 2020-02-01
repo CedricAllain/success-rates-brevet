@@ -17,6 +17,8 @@ pip install git+https://github.com/paris-saclay-cds/ramp-workflow.git
 
 - Get started on this RAMP with the <a href="https://github.com/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb"> starting kit notebook </a>
 
+- The notebook data_camp_get_data gives the scrapping code for the target.
+
 - WARNING : The maps are not visible in the notebook on the github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held. 
 
 - To test the starting-kit, run
