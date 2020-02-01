@@ -19,7 +19,8 @@ pip install git+https://github.com/paris-saclay-cds/ramp-workflow.git
 
 - The notebook data_camp_get_data gives the scrapping code for the target.
 
-- WARNING : The maps are not visible in the notebook on the github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held. 
+- WARNING : The maps are not visible in the notebook on the github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held.
+To see the notebook correctly compiled with the dynamics maps, please click <a href='https://nbviewer.jupyter.org/github/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb'>here</a>.
 
 - To test the starting-kit, run
 
