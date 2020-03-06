@@ -22,6 +22,10 @@ pip install git+https://github.com/paris-saclay-cds/ramp-workflow.git
 - WARNING: The maps are not visible in the notebook on the github because they are dynamic. So you need to run the notebook locally and  make sure you have an internet connection because they need to access some url on <a href='https://france-geojson.gregoiredavid.fr/' >FranceGeoJson</a> where some dynamic maps are held.
 To see the notebook correctly compiled with the dynamics maps, please click <a href='https://nbviewer.jupyter.org/github/CedricAllainEnsae/success-rates-brevet/blob/master/Starting_kit_taux-de-succes-brevet.ipynb'>here</a>.
 
+- NOTE: In order to properly run the data_camp_get_data.ipynb notebook, please download the following file: https://drive.google.com/open?id=1kquU3w7GADjwEqP7rbcqRwBtHeY2HO-Z
+and place it in ./data/donnees_geographiques/donnees_postal_code
+Data source: https://data.opendatasoft.com/explore/dataset/code-postal-code-insee-2015%40public/table/?fbclid=IwAR2n_ZKM09d5GAFOcu5vFpadj-yOR3kpmFIqgiEgskY7YvYvNMGgq-Pt1CQ
+
 - To test the starting-kit, please run the following command
 
 ```
